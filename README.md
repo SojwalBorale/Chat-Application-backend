@@ -35,3 +35,20 @@ ChatApp/
 ├── src/                 # Components, Pages, WebSocket client
 ├── public/              # Static assets
 └── .env                 # VITE_API_BASE_URL
+
+
+## Deep Explanation
+- A real-time chat backend using Spring Boot.
+- Features: user registration, authentication, sending/receiving messages, chat history.
+- Database: MongoDB for storing messages.
+- Can be extended with WebSocket for live chat.
+- Frontend: React + Vite (optional).
+
+## Interview Questions (Chat-Application)
+- Explain the architecture of your chat app.
+- How do you store chat messages?.
+- How would you implement real-time communication?.
+- What challenges did you face with MongoDB schema design?.
+- How do you handle authentication?.
+- What is the difference between REST API and WebSocket?.
+- How would you scale this application?.
